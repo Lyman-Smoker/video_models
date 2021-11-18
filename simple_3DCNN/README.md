@@ -1,1 +1,3 @@
-使用最简单的3DCNN进行AQA回归。
+## Simple_3DCNN
+
+Here I use pretrained C3D model on several downstreams tasks. You can click here to obtain the pretrained C3D model.
